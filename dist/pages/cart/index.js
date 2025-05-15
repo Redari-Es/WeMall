@@ -1,0 +1,1 @@
+"use strict";const e=require("../../taro.js"),t="";function r(){return e.taroExports.useLoad((()=>{console.log("Page loaded.")})),e.jsxRuntimeExports.jsx(e.View,{className:"index",children:e.jsxRuntimeExports.jsx(e.Text,{children:"\u5206\u7c7b"})})}var a={navigationBarTitleText:"\u8d2d\u7269\u8f66"};Page(e.createPageConfig(r,"pages/cart/index",{root:{cn:[]}},a||{}));
